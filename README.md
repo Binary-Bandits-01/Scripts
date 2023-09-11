@@ -1,5 +1,8 @@
 # Scripts
 
+- script readme
+- pentest scripts
+
 <br>
 
 ### Team Members
