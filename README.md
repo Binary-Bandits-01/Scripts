@@ -2,6 +2,7 @@
 
 - script readme
 - pentest scripts
+[Bandits Attack Tool](https://github.com/Binary-Bandits-01/Scripts/blob/main/Bandits_Attack_Tool.py)
 
 <br>
 
