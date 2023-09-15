@@ -7,6 +7,8 @@ This GitHub repository serves as a collection of penetration testing and red tea
 
 [Windows Post Exploit Reverse](https://github.com/Binary-Bandits-01/Scripts/blob/main/Windows_Post_Exploit_Reverse.sh)
 
+[Powershell Test Script](https://github.com/Binary-Bandits-01/Scripts/blob/main/testscript.ps1)
+
 <br>
 
 ### Team Members
